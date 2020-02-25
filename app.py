@@ -16,7 +16,15 @@ def print_list():
 def delete_task(number_to_delete):
     # your code here
     pass
+
+def save_todos():
+    # your code here
+    pass
+
     
+def load_todos():
+    # your code here
+    pass
 
 # Below this code will only run if the entry file running was app.py
 if __name__ == '__main__':
@@ -26,10 +34,12 @@ if __name__ == '__main__':
         1. Add one task
         2. Delete a task
         3. Print the current list of tasks
-        4. Exit
+        4. Save todo's to todos.csv
+        5. Load todo's from todos.csv
+        6. Exit
     """)
         response = input()
-        if response == "4":
+        if response == "6":
             stop = True
         elif response == "3":
             print_list()
@@ -41,5 +51,11 @@ if __name__ == '__main__':
             print("What is your task title?")
             title = input()
             add_one_task(title)
+        elif response == "4":
+            print("Saving todo's...")
+            save_todos()
+        elif response == "5":
+            print("Loading todo's...")
+            load_todos()
         else:
             print("Invalid response, asking again...")
