@@ -6,26 +6,17 @@ def get_todos():
     return todos
 
 def add_one_task(title):
-    global todos
-    todos.append(title)
+    # your code here
+    pass
 
 def print_list():
     global todos
-    print("Your current list of tasks ("+str(len(todos))+"):")
-    count = 1
-    for t in todos:
-        print(" "+str(count)+". "+t)
-        count = count + 1
+    pass
 
 def delete_task(number_to_delete):
-    global todos
-    new_todos = []
-    number_to_delete = int(number_to_delete) - 1
-    for i in range(0,len(todos)):
-        if str(i) != str(number_to_delete):
-            new_todos.append(todos[i])
-
-    todos = new_todos
+    # your code here
+    pass
+    
 
 # Below this code will only run if the entry file running was app.py
 if __name__ == '__main__':
