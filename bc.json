@@ -5,8 +5,8 @@
 	"status": "published",
 	"live-url": "",
 	"duration" : 8,
-    "dificulty": "beginner",
-    "solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",
+	"difficulty": "beginner",
+    	"solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",
 	"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
 	"talents": [
 		{ "badge": "identator", "points": 10 }
