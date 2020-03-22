@@ -2,6 +2,7 @@
 	"slug" : "todo-list-cli-python",
 	"title" : "Todo List CLI with Python",
 	"description": "Todo List CLI using Python",
+	"preview": "https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true",
 	"status": "published",
 	"live-url": "",
 	"duration" : 8,
