@@ -29,7 +29,7 @@ def load_todos():
 
 - You app needs to work from the the command line [like this](https://projects.breatheco.de/json?slug=todo-list-cli&preview).
 - The user should be able to add new tasks
-- The use can add as many tasks as it wants.
+- The user can add as many tasks as it wants.
 - The user can delete tasks by specifying the task position in the list.
 - The user can save the todos to a `todos.csv` file
 - The user can retrieve the todos from a `todos.csv` file
