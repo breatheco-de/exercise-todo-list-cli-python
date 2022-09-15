@@ -11,5 +11,7 @@
 	"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
 	"talents": [
 		{ "badge": "identator", "points": 10 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
