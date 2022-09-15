@@ -32,7 +32,7 @@ def load_todos():
 
 ## 📝 Instructions
 
-- You app needs to work from the the command line [like this](https://projects.breatheco.de/json?slug=todo-list-cli&preview).
+- You app needs to work from the the command line [like this](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-cli-python).
 - The user should be able to add new tasks
 - The user can add as many tasks as it wants.
 - The user can delete tasks by specifying the task position in the list.
