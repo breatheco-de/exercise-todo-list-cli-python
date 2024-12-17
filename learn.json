@@ -6,6 +6,7 @@
 	"status": "published",
 	"live-url": "",
 	"duration" : 8,
+	"template_url": "self",
 	"difficulty": "beginner",
     	"solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",
 	"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
