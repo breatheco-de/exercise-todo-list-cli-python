@@ -1,4 +1,6 @@
+<!-- hide -->
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Todo's List CLI (Command Line Interface)
+<!-- endhide -->
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true" />
@@ -19,10 +21,15 @@ b) You can clone this repository on your local computer:
 $ git clone https://github.com/breatheco-de/exercise-todo-list-cli
 ```
 
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 ### Steps
 
 1. You can test your code by typing: `$ python3 test.py`.
 2. You can run your code by typing: `$ python3 app.py`.
+
+</onlyfor>
+
+## 📝 Instructions
 
 These are the functions you will have to implement:
 
@@ -33,10 +40,6 @@ def delete_task(number_to_delete):
 def save_todos():
 def load_todos():
 ```
-
-</onlyfor>
-
-## 📝 Instructions
 
 - You app needs to work from the the command line [like this](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-cli-python).
 - The user should be able to add new tasks
