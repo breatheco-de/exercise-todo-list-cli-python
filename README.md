@@ -6,19 +6,23 @@
 
 Create a TODO list application that allows users to add and delete tasks from the command line.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
-1. This project comes with the necessary files to start working, but you have two options to start:
+This project comes with the necessary files to start working, but you have two options to start:
 
-a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-todo-list-cli
+a) Open this link in your browser with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod): https://s.4geeks.com/start?repo=/breatheco-de/exercise-todo-list-cli
+
 b) You can clone this repository on your local computer:
 ```bash
 $ git clone https://github.com/breatheco-de/exercise-todo-list-cli
 ```
 
-2.
-+ You can test your code by typing: `$ python3 test.py`.
-+ You can run your code by typing: `$ python3 app.py`.
+### Steps
+
+1. You can test your code by typing: `$ python3 test.py`.
+2. You can run your code by typing: `$ python3 app.py`.
 
 These are the functions you will have to implement:
 
@@ -29,6 +33,8 @@ def delete_task(number_to_delete):
 def save_todos():
 def load_todos():
 ```
+
+</onlyfor>
 
 ## 📝 Instructions
 
