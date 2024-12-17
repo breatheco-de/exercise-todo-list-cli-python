@@ -1,5 +1,5 @@
 <!-- hide -->
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Todo's List CLI (Command Line Interface)
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Lista de Tareas CLI (Interfaz de Línea de Comandos)
 <!-- endhide -->
 
 <p align="center">
