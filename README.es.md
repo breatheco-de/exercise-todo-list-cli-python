@@ -1,4 +1,6 @@
+<!-- hide -->
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Todo's List CLI (Command Line Interface)
+<!-- endhide -->
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true" />
@@ -6,23 +8,29 @@
 
 Crea una aplicación de lista de tareas o de todos que le permira a la usuarios añadir y eliminar tareas desde la terminal.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
-1. Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
+Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod (recomendada) en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-todo-list-cli
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://s.4geeks.com/start?repo=breatheco-de/exercise-todo-list-cli
 
 b) Clonar este repositorio localmente en tu computador:
+
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-todo-list-cli
 ```
-2. Puedes probar tu código escribiendo en la terminal: `$ python3 test.py`
 
-3. Puedes ejecutar tu código escribiendo en la terminal: `$ python3 app.py`.
+### Pasos
 
+1. Puedes probar tu código escribiendo en la terminal: `$ python3 test.py`
 
+2. Puedes ejecutar tu código escribiendo en la terminal: `$ python3 app.py`.
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
