@@ -1,6 +1,6 @@
-<!-- hide -->
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Todo's List CLI (Command Line Interface)
-<!-- endhide -->
+<!--hide-->
+# Todo's List CLI (Command Line Interface)
+<!--endhide-->
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true" />
@@ -43,7 +43,7 @@ def load_todos():
 
 - You app needs to work from the the command line [like this](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-cli-python).
 - The user should be able to add new tasks
-- The user can add as many tasks as it wants.
+- The user can add as many tasks as he/she wants.
 - The user can delete tasks by specifying the task position in the list.
 - The user can save the todos to a `todos.csv` file
 - The user can retrieve the todos from a `todos.csv` file

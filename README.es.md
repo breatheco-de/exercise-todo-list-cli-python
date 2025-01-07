@@ -1,12 +1,12 @@
-<!-- hide -->
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Lista de Tareas CLI (Interfaz de Línea de Comandos)
-<!-- endhide -->
+<!--hide-->
+# Lista de tareas pendientes CLI (interfaz de línea de comandos)
+<!--endhide-->
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true" />
 </p>
 
-Crea una aplicación de lista de tareas o de todos que le permira a la usuarios añadir y eliminar tareas desde la terminal.
+Crea una aplicación de lista de tareas o de todos que le permita a los usuarios añadir y eliminar tareas desde la terminal.
 
 <onlyfor saas="false" withBanner="false">
   

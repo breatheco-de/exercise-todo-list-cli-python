@@ -8,11 +8,12 @@
 	"duration" : 8,
 	"template_url": "self",
 	"difficulty": "beginner",
+	"template_url": "self",
     	"solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",
 	"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
 	"talents": [
 		{ "badge": "identator", "points": 10 }
 	],
-    "autoPlay": false,
-    "projectType": "project"
+    	"autoPlay": false,
+    	"projectType": "project"
 }
