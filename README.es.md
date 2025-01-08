@@ -12,21 +12,21 @@ Crea una aplicación de lista de tareas o de todos que le permita a los usuarios
   
 ## 🌱  Cómo iniciar este proyecto
 
-Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
-
-a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://s.4geeks.com/start?repo=breatheco-de/exercise-todo-list-cli
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://github.com/codespaces/new/?repo=4GeeksAcademy/python-hello
 
 b) Clonar este repositorio localmente en tu computador:
 
 ```sh
-$ git clone https://github.com/breatheco-de/exercise-todo-list-cli
+$ git clone https://github.com/4GeeksAcademy/python-hello
 ```
 
 ### Pasos
 
-1. Puedes probar tu código escribiendo en la terminal: `$ python3 test.py`
+- Si trabajas localmente, debe tener python [instalado](https://4geeks.com/es/how-to/como-instalar-python).
 
-2. Puedes ejecutar tu código escribiendo en la terminal: `$ python3 app.py`.
+- Deberías abrir el terminal en la ruta de esta plantilla y ejecutar `$ python3 app.py`, si todo funciona correctamente, debería mostrar `Hello World` en el terminal.
+
+- Puedes probar tu código escribiendo `$ python3 test.py`.
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
