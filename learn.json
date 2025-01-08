@@ -6,6 +6,7 @@
 	"status": "published",
 	"live-url": "",
 	"duration" : 8,
+	"template_url": "https://github.com/4GeeksAcademy/python-hello",
 	"difficulty": "beginner",
 	"template_url": "self",
     	"solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",

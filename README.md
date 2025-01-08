@@ -8,19 +8,31 @@
 
 Create a TODO list application that allows users to add and delete tasks from the command line.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
-1. This project comes with the necessary files to start working, but you have two options to start:
+a) Open this link in your browser with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod): https://github.com/codespaces/new/?repo=4GeeksAcademy/python-hello
 
-a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-todo-list-cli
 b) You can clone this repository on your local computer:
+
 ```bash
-$ git clone https://github.com/breatheco-de/exercise-todo-list-cli
+$ git clone https://github.com/4GeeksAcademy/python-hello
 ```
 
-2.
-+ You can test your code by typing: `$ python3 test.py`.
-+ You can run your code by typing: `$ python3 app.py`.
+### Steps
+
+- If working locally, you should have python [installed](https://4geeks.com/how-to/how-to-install-python).
+
+- You should open the terminal on the path of this template and run `$ python3 app.py`, if everything works correctly, it should show `Hello World` on the terminal.
+
+- You can test your code by typing: `$ python3 test.py`.
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+</onlyfor>
+
+## 📝 Instructions
 
 These are the functions you will have to implement:
 
@@ -32,9 +44,7 @@ def save_todos():
 def load_todos():
 ```
 
-## 📝 Instructions
-
-- Your app needs to work from the command line [like this](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-cli-python).
+- You app needs to work from the the command line [like this](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-cli-python).
 - The user should be able to add new tasks
 - The user can add as many tasks as he/she wants.
 - The user can delete tasks by specifying the task position in the list.
