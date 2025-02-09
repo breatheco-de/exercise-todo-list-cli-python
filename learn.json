@@ -1,14 +1,19 @@
 {
 	"slug" : "todo-list-cli-python",
-	"title" : "Todo List CLI with Python",
-	"description": "Todo List CLI using Python",
+	"title" : {
+			"us": "Todo List CLI with Python",
+			"es": "Todo List CLI con Python"
+		},
+	"description": {
+		"us": "Create a command-line TODO list app where users can add, delete, save, and load tasks. Manage tasks efficiently with CSV file storage. Simple interface with Python functions for task management.",
+		"es": "Crea una aplicación de lista TODO de línea de comandos en la que los usuarios puedan añadir, eliminar, guardar y cargar tareas. Gestione tareas eficientemente con almacenamiento de archivos CSV. Interfaz sencilla con funciones Python para la gestión de tareas."
+	},
 	"preview": "https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true",
 	"status": "published",
 	"live-url": "",
 	"duration" : 8,
 	"template_url": "https://github.com/4GeeksAcademy/python-hello",
 	"difficulty": "beginner",
-	"template_url": "self",
     	"solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",
 	"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
 	"talents": [
@@ -16,4 +21,7 @@
 	],
     	"autoPlay": false,
     	"projectType": "project"
+	"telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=158"
+	}
 }
