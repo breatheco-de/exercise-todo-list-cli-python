@@ -1,19 +1,48 @@
 {
-	"slug" : "todo-list-cli-python",
-	"title" : "Todo List CLI with Python",
-	"description": "Todo List CLI using Python",
-	"preview": "https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true",
+	"slug" : "ml-webapp-using-streamlit-tutorial",
+	"title" : {
+		"us": "ML web app using Streamlit tutorial",
+		"es": "Aplicación web ML con el tutorial Streamlit"
+	},
+	"preview": "https://github.com/4GeeksAcademy/ml-webapp-using-streamlit-tutorial/blob/main/preview.png?raw=true",
 	"status": "published",
-	"live-url": "",
-	"duration" : 8,
-	"template_url": "https://github.com/4GeeksAcademy/python-hello",
+	"translations": ["us"],
+	"technologies": ["data-science", "machine-learning", "python", "flask"],
 	"difficulty": "beginner",
-	"template_url": "self",
-    	"solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",
-	"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
-	"talents": [
-		{ "badge": "identator", "points": 10 }
-	],
-    	"autoPlay": false,
-    	"projectType": "project"
-}
+	"syntax": "python",
+	"duration" : 1,
+        "projectType": "project",
+	"autoPlay": false,
+	"description" : {
+"us": "Use Streamlit to build an interactive web application that integrates a machine learning model. This will allow users to input data, make predictions, and visualize results in a user-friendly interface.",
+		"es": "Usa Streamlit para crear una aplicación web interactiva que integre un modelo de aprendizaje automático. Esto permitirá a los usuarios ingresar datos, hacer predicciones y visualizar resultados en una interfaz fácil de usar"
+},
+		"slug" : "todo-list-cli-python",
+		"title" : {
+			"us": "Todo List CLI with Python",
+			"es": "Todo List CLI con Python"
+		},
+		"description": {
+			"us": "Create a command-line TODO list app where users can add, delete, save, and load tasks. Manage tasks efficiently with CSV file storage. Simple interface with Python functions for task management.",
+		"es": "Cree una aplicación de lista TODO de línea de comandos en la que los usuarios puedan añadir, eliminar, guardar y cargar tareas. Gestione tareas eficientemente con almacenamiento de archivos CSV. Interfaz sencilla con funciones Python para la gestión de tareas."
+	},
+		"preview": "https://github.com/breatheco-de/exercise-todo-list-cli-python/blob/master/preview.gif?raw=true",
+		"status": "published",
+		"live-url": "",
+		"duration" : 8,
+		"template_url": "https://github.com/4GeeksAcademy/python-hello",
+		"difficulty": "beginner",
+		"template_url": "self",
+			"solution": "https://github.com/breatheco-de/todo-list-cli-python/tree/solution",
+		"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
+		"talents": [
+			{ "badge": "identator", "points": 10 }
+		],
+			"autoPlay": false,
+			"projectType": "project",
+		"telemetry": {
+			"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=158"
+		}
+	}
+
+
