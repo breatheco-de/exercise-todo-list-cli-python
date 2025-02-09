@@ -20,7 +20,7 @@
 		{ "badge": "identator", "points": 10 }
 	],
     	"autoPlay": false,
-    	"projectType": "project"
+    	"projectType": "project",
 	"telemetry": {
 	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=158"
 	}
