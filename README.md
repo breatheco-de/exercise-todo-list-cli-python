@@ -44,7 +44,7 @@ def save_todos():
 def load_todos():
 ```
 
-- You app needs to work from the the command line [like this](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-cli-python).
+- You app needs to work from the the command line [like this](https://4geeks.com/interactive-coding-tutorial/todo-list-cli-python).
 - The user should be able to add new tasks
 - The user can add as many tasks as he/she wants.
 - The user can delete tasks by specifying the task position in the list.
