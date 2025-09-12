@@ -44,7 +44,7 @@ def save_todos():
 def load_todos():
 ````
 
-- Tu aplicación debe funcionar desde la terminal [como esta] (https://projects.breatheco.de/json?slug=todo-list-cli&preview).
+- Tu aplicación debe funcionar desde la terminal [como esta] (https://raw.githubusercontent.com/breatheco-de/exercise-todo-list-cli-python/refs/heads/master/preview.gif).
 - El usuario puede agregar nuevas tareas
 - El usuario puede agregar tantas tareas como quiera.
 - El usuario puede eliminar tareas especificando la posición de la tarea en la lista.
