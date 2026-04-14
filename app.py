@@ -1,30 +1,36 @@
 todos = []
 stop = False
 
+
 def get_todos():
     global todos
     return todos
+
 
 def add_one_task(title):
     # your code here
     pass
 
+
 def print_list():
     global todos
     pass
+
 
 def delete_task(number_to_delete):
     # your code here
     pass
 
+
 def save_todos():
     # your code here
     pass
 
-    
+
 def load_todos():
     # your code here
     pass
+
 
 # Below this code will only run if the entry file running was app.py
 if __name__ == '__main__':
