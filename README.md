@@ -34,7 +34,7 @@ The tool should let coordinators register new tasks as they come in, review the 
 
 Build the first usable version so the operations team can test it this week.
 
----
+<how-to-start>
 
 ## 🌱 How to Start the Project
 
@@ -51,7 +51,7 @@ git clone https://github.com/4GeeksAcademy/python-hello
 - Create your own GitHub repository for delivery and update remote URL with `git remote set-url origin <your-new-url>`
 - Follow the full project bootstrap guide here: [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project)
 
----
+</how-to-start>
 
 ## 💻 What You Need to Do
 
