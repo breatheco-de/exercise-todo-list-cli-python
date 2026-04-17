@@ -34,7 +34,7 @@ La aplicacion debe permitir registrar nuevas tareas cuando llegan, consultar tod
 
 Construye esta primera version funcional para que el equipo de operaciones la pruebe esta semana.
 
----
+<how-to-start>
 
 ## 🌱 Cómo iniciar el proyecto
 
@@ -51,7 +51,7 @@ git clone https://github.com/4GeeksAcademy/python-hello
 - Crea tu propio repositorio en GitHub para la entrega y actualiza el remote con `git remote set-url origin <tu-nueva-url>`
 - Revisa la guia completa de inicio aqui: [como iniciar un proyecto](https://4geeks.com/es/lesson/how-to-start-a-project)
 
----
+</how-to-start>
 
 ## 💻 Qué debes hacer
 
